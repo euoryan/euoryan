@@ -17,7 +17,7 @@ Ao longo da minha carreira, já desenvolvi diversos projetos e marcas. Alguns do
 - **Sistema de backup automático** - Backup de dados do Dropbox para outras plataformas de nuvem.
 - **Template pronto, bot para Telegram** - Envio de ID de usuário default. Veja: [Bot Telegram](https://github.com/euoryan/seuid)
 - **QR-Code-Maker** - Gere QR Codes para qualquer site de forma rápida e fácil. Veja: [QR-Code-Maker](https://github.com/euoryan/QR-Code-Maker)
-- **Sites para empresas**: [Bday](https://euoryan.com/bday) | [Irmãos Rocha](https://euoryan.com/irmaosrocha)
+- **Sites para empresas**: [euoryan](https://euoryan.com/) | [Bday](https://euoryan.com/bdaykids/) | [Irmãos Rocha](https://euoryan.com/irmaosrocha)
 - **Site para geração de QR Code em massa** - Com opção de importação de dados.
 - **Bots Telegram** - Automação para atendimento ao cliente, envio de mensagens e CRM.
 
