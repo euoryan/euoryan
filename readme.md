@@ -32,7 +32,7 @@ ao longo da minha carreira, já desenvolvi diversos projetos e marcas. alguns do
 
 você pode me contatar através de:
 
-* **email**: [contato@euoryan.com](mailto:contato@euoryan.com)
+* **email**: [hello@euoryan.com](mailto:hello@euoryan.com)
 * **instagram**: [@euoryan](https://instagram.com/euoryan)
 
 agradeço a todos que apoiaram minha jornada, desde mentores até colaboradores que tornam a tecnologia mais acessível e inovadora.
