@@ -16,9 +16,8 @@ olá 👋 sou o ryan, dev full stack focado em automações, web dev e ui/ux. h�
 * **seuid** - bot telegram para envio de user id. repo: [seuid](https://github.com/euoryan/seuid)
 * **qr-code-maker** - chrome extension para gerar qr codes on-the-fly. repo: [qr-code-maker](https://github.com/euoryan/qr-code-maker)
 * **web apps**:
-  [calculator](https://euoryan.com/calculator/) |
   [qrcode](https://euoryan.com/qrcode/) |
-  [2fa](https://euoryan.com/2fa/)
+  [2fa](https://euoryan.com/2fa/) |
   [calc](https://euoryan.com/calc/)
 
 ### contato
