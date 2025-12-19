@@ -24,4 +24,4 @@ olá 👋 sou o ryan, dev full stack focado em automações, web dev e ui/ux. h�
 
 * **email**: [contato@euoryan.com](mailto:contato@euoryan.com)
 
-sempre aberto para colaborações e trocar ideias ;)
+sempre aberto para trocar ideias ;)
