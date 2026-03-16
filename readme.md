@@ -1,4 +1,4 @@
-olá 👋 sou o ryan, dev full stack focado em automações, web dev e ui/ux. há **6 anos** criando soluções para o setor de transportes, otimizando processos e shipando produtos em prod.
+olá 👋 sou o ryan, dev full stack focado em automações, web dev e ui/ux. há **7 anos** criando soluções para o setor de transportes, otimizando processos e shipando produtos em prod.
 
 ### stack & ferramentas
 
